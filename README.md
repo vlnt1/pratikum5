@@ -1,4 +1,7 @@
 # pratikum5
+Nama : Michael valentino laisina<p>
+NIM : 312110045<P>
+Kelas : TI.21.C1<P>
 ## Latihan 1
 script : latihan1.py<p>
 membuat Dictionary daftar kontak<p>
